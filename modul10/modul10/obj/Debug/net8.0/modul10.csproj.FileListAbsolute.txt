@@ -30,3 +30,4 @@ D:\1302223075_MOD10_JURNAL_AFH\modul10\modul10\obj\Debug\net8.0\refint\modul10.d
 D:\1302223075_MOD10_JURNAL_AFH\modul10\modul10\obj\Debug\net8.0\modul10.pdb
 D:\1302223075_MOD10_JURNAL_AFH\modul10\modul10\obj\Debug\net8.0\modul10.genruntimeconfig.cache
 D:\1302223075_MOD10_JURNAL_AFH\modul10\modul10\obj\Debug\net8.0\ref\modul10.dll
+D:\1302223075_MOD10_JURNAL_AFH\modul10\modul10\obj\Debug\net8.0\modul10.sourcelink.json
